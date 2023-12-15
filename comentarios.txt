@@ -1,0 +1,4 @@
+Tivemos um problema com o yacc, por algum motivo o builder não funcionava. 
+Contactamos um aluno que usou o ply para ajudar, e por isso há um import no meio do código. Não entendi, nem ele soube explicar, mas resolveu.
+Alguns snippets mais simples funcionam sem erros, mas com seu código de teste não, então deixei seu código de teste como o snippet.
+Mas pelo o que eu vi, outros tiveram problemas similares tentando fazer há mais tempo, então deixamos assim. 
