@@ -16,7 +16,8 @@ reserved = {
    'default' : 'DEFAULT',
    'break' : 'BREAK',
    'continue' : 'CONTINUE',
-   'struct' : 'STRUCT'
+   'struct' : 'STRUCT',
+   'double' : 'DOUBLE' 
 }
 
 tokens = [

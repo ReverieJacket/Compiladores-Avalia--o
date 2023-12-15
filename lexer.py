@@ -14,7 +14,8 @@ reserved = {
    'println' : 'RESERVED_WORD_PRINTLN',
    'main' : 'RESERVED_WORD_MAIN',
    'return' : 'RESERVED_WORD_RETURN',
-   'struct' : 'RESERVED_WORD_STRUCT'
+   'struct' : 'RESERVED_WORD_STRUCT',
+   'double' : 'RESERVED_WORD_DOUBLE'
 }
 
 # Lista de tipos de tokens, incluindo palavras reservadas
